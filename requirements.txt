@@ -1,0 +1,8 @@
+pandas
+requests
+lightgbm
+torch
+scikit-learn
+fastapi
+uvicorn
+google-cloud-storage

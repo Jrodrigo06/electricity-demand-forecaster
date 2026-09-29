@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (local only)
+/data/
+
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.pt
+*.pth

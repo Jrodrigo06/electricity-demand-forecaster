@@ -6,3 +6,6 @@ scikit-learn
 fastapi
 uvicorn
 google-cloud-storage
+python-dotenv
+pyarrow<24  # pyarrow 25 breaks pandas 3.0.x parquet I/O
+matplotlib

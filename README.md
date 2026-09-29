@@ -10,7 +10,10 @@ _TODO_
 
 ## Approach
 
-_TODO_
+- **Data:** hourly ISO-NE demand from the EIA API v2 (2024 pulled so far).
+- **Models:** _TODO_
+
+For setup and development notes, see [README-dev.md](README-dev.md).
 
 ## Results
 
